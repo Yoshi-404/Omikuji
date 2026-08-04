@@ -1,0 +1,18 @@
+# 仮想環境 / Virtual environments
+venv/
+.venv/
+env/
+
+# Python キャッシュ / Python cache
+__pycache__/
+*.pyc
+
+# 環境変数・APIキー / Environment variables & secrets
+.env
+
+# macOS
+.DS_Store
+
+# エディタ設定 / Editor settings
+.vscode/
+.idea/
