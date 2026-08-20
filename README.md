@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ```
 
 ### ライセンス
-このプロジェクトは [MIT License](LICENSE) のもとで公開されています。(必要に応じてLICENSEファイルを追加してください)
+このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
 
 <br>
 
@@ -141,4 +141,4 @@ pip install -r requirements.txt
 ```
 
 ### License
-This project is released under the [MIT License](LICENSE). (Add a LICENSE file if needed.)
+This project is released under the [MIT License](LICENSE).
